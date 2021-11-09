@@ -1,66 +1,56 @@
 body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-
 
 .d-flex {
-    display: flex;
+  display: flex;
 }
-
 
 .ul {
-    border: 2px solid black;
+  border: 2px solid black;
 }
-
 
 .main-container {
-    justify-content: space-between;
-    margin: 0 14%;
+  justify-content: space-between;
+  margin: 0 14%;
 }
-
 
 .main-container > * {
-    width: 40%;
+  width: 40%;
 }
-
 
 .score-header {
-    align-items: center;
-    justify-content: space-between;
+  align-items: center;
+  justify-content: space-between;
 }
-
 
 #form {
-    flex-direction: column;
-    gap: 20px;
+  flex-direction: column;
+  gap: 20px;
 }
-
 
 input {
-    padding: 5px;
+  padding: 5px;
 }
-
 
 .submit {
-    position: relative;
-    width: max-content;
-    left: 82%;
+  position: relative;
+  width: max-content;
+  left: 82%;
 }
-
 
 .scores {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
-
 .scores li {
-    list-style: none;
-    padding: 7px 5px;
+  list-style: none;
+  padding: 7px 5px;
 }
 
 .scores li:nth-child(even) {
-    background: rgb(202, 202, 202);
+  background: rgb(202, 202, 202);
 }
