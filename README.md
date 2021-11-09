@@ -7,7 +7,7 @@ Additional description about the project and its features.
 
 
 
-![screenshot](./img/ld.png)
+![screenshot](./src/img/ld.png)
 
  
 
