@@ -36,9 +36,7 @@ input {
 }
 
 .submit {
-  position: relative;
-  width: max-content;
-  left: 82%;
+  align-self: flex-end;
 }
 
 .scores {
