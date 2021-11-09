@@ -1,7 +1,4 @@
 import './style.css';
-import { scoreList, lists } from './listcore.js';
-import { lists } from './listcore';
+import { displayScores } from './listcore.js';
 
-const scoreBoard = document.getElementById('scores');
-
-updateList(lists, scoreBoard);
+displayScores();

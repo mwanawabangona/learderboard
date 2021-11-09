@@ -46,7 +46,7 @@ input {
 
 .scores li {
   list-style: none;
-  padding: 7px 5px;
+  padding: 1px 5px;
 }
 
 .scores li:nth-child(even) {
