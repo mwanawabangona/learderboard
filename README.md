@@ -7,13 +7,13 @@ Additional description about the project and its features.
 
 
 
-![screenshot](./image/mobdemo.PNG)
+![screenshot](./img/ld.png)
 
  
 
 ## Live Demo
 
-[Live Demo Link](/)
+[Live Demo Link](/)coming soon!!
  
 ## Built With
 
