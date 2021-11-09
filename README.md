@@ -1,7 +1,10 @@
-# Portfolio portfolio
+# LeaderBoard
 
-The project is inspired by the figma microverse template 1 (https://figma.com/)
-For this portfolio website, I implemented a popup window that includes the project details in both desktop and mobile. In order to do that, I store the information about the different projects in a JavaScript object.
+> This project was built for Microverse [under these guidance objectives](https://github.com/microverseinc/curriculum-javascript/blob/main/leaderboard/sneak_peek.md)
+> _note: you can only access this link if you're a Micronault (Microverse Student)_
+
+Additional description about the project and its features.
+
 
 
 ![screenshot](./image/mobdemo.PNG)
@@ -26,9 +29,9 @@ To get a local copy up and running follow these simple steps.
 
 Run the command below from the Terminal:
 
-      git clone <URL> 'https://github.com/mwanawabangona/learderbord' in your terminal
+      git clone <URL> 'https://github.com/mwanawabangona/learderboard/issues' in your terminal
 
-	  cd setup
+	  cd branch-A
 
 	  start index.html
 
