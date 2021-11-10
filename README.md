@@ -31,9 +31,23 @@ Run the command below from the Terminal:
 
       git clone <URL> 'https://github.com/mwanawabangona/learderboard/issues' in your terminal
 
-	  cd branch-A
+	  cd branch-B
 
-	  start index.html
+	 
+  ```cd Leaderboard```
+
+> install project dependencies
+
+  ```npm install```
+
+> build project
+
+  ```npm run build```
+
+> start project
+
+  ```npm start```
+
 
 
 
