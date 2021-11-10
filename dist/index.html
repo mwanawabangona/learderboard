@@ -8,26 +8,16 @@
 <script defer src="main.js"></script></head>
 <body>
 <header>
-  <h1 class="header" id="header">learderbord</h1>
+  <h1 class="header">learderbord</h1>
 </header>
   <div class="main-container d-flex">
   <section class="first-part">
     <div class="score-header d-flex">
         <h2>recent scores</h2>
-        <button type="submit">refresh</button>
+        <button type="submit" id="refresh">refresh</button>
     </div>
       <div class="ul" id="ul">
           <ul class="scores" id="scores">
-              <li>name:500</li>
-              <li>name:500</li>
-              <li>name:500</li>
-              <li>name:500</li>
-              <li>name:500</li>
-              <li>name:500</li>
-              <li>name:500</li>
-              <li>name:500</li>
-              <li>name:500</li>
-              <li>name:500</li>
           </ul>
         </div>
         
@@ -37,9 +27,9 @@
         <div class="header" id="header">
           <h1>Add your score</h1>
         </div>
-        <form id="form" class="d-flex">
-          <input type="text" id="first-input" name="first_task" placeholder=" your name">
-          <input type="text" id="input" name="new_task" placeholder="your score">
+        <form id="form" class="d-flex" class="form">
+          <input type="text" id="first-input" name="user" placeholder=" your name" required>
+          <input type="number" id="input" name="score" placeholder="your score" required>
           <button class="submit" type="submit" title="submit">Submit</button>
         </form>
     </section>
