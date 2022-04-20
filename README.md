@@ -13,7 +13,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](/)coming soon!!
+[Live Demo Link](/)
  
 ## Built With
 
