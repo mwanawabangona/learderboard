@@ -13,7 +13,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](/)
+[Live Demo Link](/https://amazing-quokka-ab198a.netlify.app/)
  
 ## Built With
 
